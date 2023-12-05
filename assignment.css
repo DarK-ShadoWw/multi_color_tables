@@ -1,0 +1,96 @@
+body {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 15%;
+  background-image: url('cheng-feng-Tu_lH5CFFZw-unsplash.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+#table-1 table,
+th,
+td {
+  border: 4px solid black;
+}
+
+p {
+  text-align: center;
+  font-family: monospace;
+  font-size: 1.2rem;
+  font-weight: bolder;
+  color: white;
+}
+
+#table-1 {
+  box-shadow: 0 0 50px 15px #48abe0;
+  width: 70vh;
+  text-align: center;
+  background-image: url('jigar-panchal-yiN4GgsKYhM-unsplash.jpg');
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: monospace;
+  font-size: 1.2rem;
+}
+
+#table-2 table,
+th,
+td {
+  border: 2px solid black;
+}
+
+#table-2 {
+  box-shadow: 0 0 50px 15px #48abe0;
+  width: 70vh;
+  text-align: center;
+  font-family: monospace;
+  font-size: 1.2rem;
+}
+
+#t1 {
+  background-color: antiquewhite;
+}
+
+#t2 {
+  background-color: blueviolet;
+}
+
+#t3 {
+  background-color: aquamarine;
+}
+
+#t4 {
+  background-color: chartreuse;
+}
+
+#t5 {
+  background-color: darkcyan;
+}
+
+#t6 {
+  background-color: chocolate;
+}
+
+#t7 {
+  background-color: darkkhaki;
+}
+
+#t8 {
+  background-color: dodgerblue;
+}
+
+#t9 {
+  background-color: greenyellow;
+}
+
+#t10 {
+  background-color: lightpink;
+}
+
+#t11 {
+  background-color: antiquewhite;
+}
+
+#t12 {
+  background-color: blueviolet;
+}
